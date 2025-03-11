@@ -106,11 +106,12 @@ const CancellationPolicy = () => {
               If you have any questions or concerns regarding cancellations or refunds, please contact us at:
             </p>
             <div className="pl-4 border-l-4 border-indigo-300 py-2">
-              <p>Ohm Astro</p>
-              <p>123 Celestial Avenue, Astral City, AC 12345</p>
-              <p>support@ohmastro.com</p>
-              <p>+1 (555) 123-4567</p>
-            </div>
+                  <p>Ohm Astro</p>
+                  <p>Sector 17, Panchkula</p>
+                  <p>Haryana, India - 134109</p>
+                  <p>support@ohmastro.com</p>
+                  <p>+91 8930701666</p>
+                </div>
           </section>
         </div>
       </main>
