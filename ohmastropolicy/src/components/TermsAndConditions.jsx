@@ -23,9 +23,9 @@ const TermsAndConditions = () => {
       <main className="container mx-auto px-4 md:px-6 py-8">
         <div className="w-full mx-auto bg-white rounded-lg shadow-md p-6 md:p-8">
           <h2 className="text-2xl font-bold text-indigo-900 text-center mb-6">Terms and Conditions</h2>
-          
+
           <p className="text-center mb-6"><strong>Effective Date:</strong> {currentDate}</p>
-          
+
           <section className="mb-6">
             <h3 className="text-xl font-bold text-indigo-800 mb-3">Introduction</h3>
             <p className="mb-4">
@@ -175,9 +175,10 @@ const TermsAndConditions = () => {
             </p>
             <div className="pl-4 border-l-4 border-indigo-300 py-2">
               <p>Ohm Astro</p>
-              <p>[Company Address]</p>
-              <p>[Email Address]</p>
-              <p>[Phone Number]</p>
+              <p>Sector 17, Panchkula</p>
+              <p>Haryana, India - 134109</p>
+              <p>support@ohmastro.com</p>
+              <p>+91 8930701666</p>
             </div>
           </section>
         </div>
